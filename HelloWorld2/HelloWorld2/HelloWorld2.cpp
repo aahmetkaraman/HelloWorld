@@ -7,6 +7,7 @@ int main()
 {
     cout << "Hello World!\n";
     cout << "Merhaba Dunya";
+    cout << "Selamlar...";
 }
 
 // Programı çalıştır: Ctrl + F5 veya Hata Ayıkla > Hata Ayıklamadan Başlat menüsü
